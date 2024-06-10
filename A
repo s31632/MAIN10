@@ -1,0 +1,28 @@
+public class Main {
+public static void main(String[] args) {
+//
+// ArrayList<String> words = new ArrayList<>();
+// words.add("");
+ArrayList<Car> cars = new ArrayList<>();
+cars.add("Porsche")
+cars.add("Mazda ")
+cars.add("Chevrolet")
+cars.add("Honda")
+cars.add("Toyota")
+cars.add("Ram")
+cars.add("Volkswagen")
+cars.add("Lamborgini")
+cars.add("Jaguar")
+cars.add("Priora")
+Car c= new Car();
+Car c1= new Car();
+Car c2= new Car();
+Car c3= new Car();
+Car c4= new Car();
+Car c5= new Car();
+Car c6= new Car();
+Car c7= new Car();
+Car c8= new Car();
+Car c9= new Car();
+}
+}
